@@ -1,0 +1,19 @@
+body{
+    padding: 0%;
+    margin: 0%;
+    width: 100%;
+    height: 100vh;
+}
+.bee{
+    height: 150%;
+    width: 100%;
+    background: url(curil.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    
+}
+img{
+    width: 100%;
+    height: 100%;
+}
